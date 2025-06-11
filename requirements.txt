@@ -1,0 +1,10 @@
+numpy==1.24
+Pillow
+PySide2
+scipy
+scikit-image
+matplotlib
+requests 
+opencv-python
+trimesh
+pygltflib
