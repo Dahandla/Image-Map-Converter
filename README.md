@@ -1,7 +1,7 @@
 # Image Map Converter v1.0
 
 
-![image](https://github.com/Dahandla/Image-Map-Converter/blob/ef82f82da505ef16cf3c844ccd40007a8fe42d3c/resources/ScreenShot2.png))
+![image](https://github.com/Dahandla/Image-Map-Converter/blob/ef82f82da505ef16cf3c844ccd40007a8fe42d3c/resources/ScreenShot2.png)
 
 
 https://www.youtube.com/playlist?list=PLNkqxVhFvsiRaZ7qJTcRNk--yqdihuuM2
