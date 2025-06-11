@@ -40,8 +40,7 @@ A powerful tool for generating various texture maps from 2D images, with real-ti
    
 2. Run the application:
    ```
-Texture_Map_start.bat
-   ```
+   Texture_Map_start.bat
 
 ## Usage
 1. Load an Image:
