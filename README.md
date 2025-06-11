@@ -1,10 +1,8 @@
-Image Map Converter v1.0
-========================
+# Image Map Converter v1.0
 
 A powerful tool for generating various texture maps from 2D images, with real-time 3D preview capabilities.
 
-Features
---------
+## Features
 1. Generate multiple texture maps from a single image:
    - Normal Maps
    - Specular Maps
@@ -27,23 +25,19 @@ Features
    - Customizable threshold values
    - Real-time preview updates
 
-https://github.com/Dahandla/Image-Map-Converter
-Installation
------------
-1. conda  create -n CcodeImageMap python=3.10
+## Installation
+1. `conda create -n CcodeImageMap python=3.10`
 
-conda activate CcodeImageMap
+`conda activate CcodeImageMap`
 
-pip install -r requirements.txt
-
+`pip install -r requirements.txt`
    
 2. Run the application:
    ```
 Texture_Map_start.bat
    ```
 
-Usage
------
+## Usage
 1. Load an Image:
    - Click "Load Image" to select your source image
    - Supported formats: PNG, JPG, BMP, TIFF
@@ -58,8 +52,7 @@ Usage
    - Load custom 3D models or use basic shapes
    - Adjust material properties in real-time
 
-Material Controls
----------------
+## Material Controls
 - Brightness Boost: Adjusts overall brightness of generated maps
 - Normal Map Strength: Controls the intensity of surface details
 - Height Map Strength: Adjusts the displacement effect
@@ -68,28 +61,24 @@ Material Controls
 - AO Intensity: Controls ambient occlusion strength
 - Metalness Threshold: Determines metallic vs non-metallic areas
 
-Tips
-----
+## Tips
 1. For best results, use high-resolution source images
 2. Experiment with different material property combinations
 3. Use the 3D viewer to fine-tune your maps
 4. Save your preferred settings for future use
 
-Support
--------
+## Support
 For help, documentation, and updates, visit:
-https://github.com/Dahandla/Image-Map-Converter 
+[GitHub Repository](https://github.com/Dahandla/Image-Map-Converter) 
 
 Video Tutorials:
-https://www.youtube.com/playlist?list=PLNkqxVhFvsiRaZ7qJTcRNk--yqdihuuM2
+[Video Tutorials Playlist](https://www.youtube.com/playlist?list=PLNkqxVhFvsiRaZ7qJTcRNk--yqdihuuM2)
 
-Contact
--------
-Email: saraintelai@gmail.com
+## Contact
+Email: [saraintelai@gmail.com](mailto:saraintelai@gmail.com)
 
-License
--------
+## License
 This software is provided as-is under the MIT License.
 
 Created by Andre Dickinson
-© 2024
+© 2024 
